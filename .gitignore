@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+cyberguide.log
+sauvegarde_*/
+chatbot.py
+chatbot_ancien.py
+chatbot version sauvegaede.py
+moteur_conversation.py
+requirement.txt
+resultat.txt
+resultats_cyberguide.txt
+données/données exemples.json
